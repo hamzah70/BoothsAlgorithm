@@ -1,1 +1,1 @@
-# BoothsAlgorithm
+# Booth-s-Algorithm

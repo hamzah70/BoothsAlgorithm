@@ -1,0 +1,238 @@
+2*0
+
+BINARY:		Product = 000000
+DECIMAL:	Product = 0
+
+
+2/0
+Invalid division! Cannot divide by 0 
+
+
+953*573
+
+BINARY:		Product = 0010000101010100010101
+DECIMAL:	Product = 546069
+
+
+953/573
+
+BINARY:     Quotient = 00000000001     Remainder = 00101111100
+DECIMAL:    Quotient = 1               Remainder = 380 
+
+
+-877*315
+
+BINARY:		Product = 1110111100100011100001
+DECIMAL:	Product = -276255
+
+
+-877/315
+
+BINARY:     Quotient = 11111111110     Remainder = 11100001001
+DECIMAL:    Quotient = -2              Remainder = -247 
+
+
+-381*-136
+
+BINARY:		Product = 00001100101001101000
+DECIMAL:	Product = 51816
+
+
+-381/-136
+
+BINARY:     Quotient = 0000000010      Remainder = 1110010011
+DECIMAL:    Quotient = 2               Remainder = -109 
+
+
+-902*414
+
+BINARY:		Product = 1110100100110101001100
+DECIMAL:	Product = -373428
+
+
+-902/414
+
+BINARY:     Quotient = 11111111110     Remainder = 11110110110
+DECIMAL:    Quotient = -2              Remainder = -74 
+
+
+-572*-288
+
+BINARY:		Product = 0000101000001110000000
+DECIMAL:	Product = 164736
+
+
+-572/-288
+
+BINARY:     Quotient = 00000000001     Remainder = 11011100100
+DECIMAL:    Quotient = 1               Remainder = -284 
+
+
+-688*26
+
+BINARY:		Product = 1111111011101000100000
+DECIMAL:	Product = -17888
+
+
+-688/26
+
+BINARY:     Quotient = 11111100110     Remainder = 11111110100
+DECIMAL:    Quotient = -26             Remainder = -12 
+
+
+-811*-287
+
+BINARY:		Product = 0000111000110100110101
+DECIMAL:	Product = 232757
+
+
+-811/-287
+
+BINARY:     Quotient = 00000000010     Remainder = 11100010011
+DECIMAL:    Quotient = 2               Remainder = -237 
+
+
+373*459
+
+BINARY:		Product = 00101001110011000111
+DECIMAL:	Product = 171207
+
+
+373/459
+
+BINARY:     Quotient = 0000000000      Remainder = 0101110101
+DECIMAL:    Quotient = 0               Remainder = 373 
+
+
+-117*897
+
+BINARY:		Product = 1111100110011000001011
+DECIMAL:	Product = -104949
+
+
+-117/897
+
+BINARY:     Quotient = 00000000000     Remainder = 11110001011
+DECIMAL:    Quotient = 0               Remainder = -117 
+
+
+191*49
+
+BINARY:		Product = 000010010010001111
+DECIMAL:	Product = 9359
+
+
+191/49
+
+BINARY:     Quotient = 000000011       Remainder = 000101100
+DECIMAL:    Quotient = 3               Remainder = 44 
+
+
+730*-95
+
+BINARY:		Product = 1111101111000100011010
+DECIMAL:	Product = -69350
+
+
+730/-95
+
+BINARY:     Quotient = 11111111001     Remainder = 00001000001
+DECIMAL:    Quotient = -7              Remainder = 65 
+
+
+-823*-644
+
+BINARY:		Product = 0010000001011001011100
+DECIMAL:	Product = 530012
+
+
+-823/-644
+
+BINARY:     Quotient = 00000000001     Remainder = 11101001101
+DECIMAL:    Quotient = 1               Remainder = -179 
+
+
+-484*-199
+
+BINARY:		Product = 00010111100000111100
+DECIMAL:	Product = 96316
+
+
+-484/-199
+
+BINARY:     Quotient = 0000000010      Remainder = 1110101010
+DECIMAL:    Quotient = 2               Remainder = -86 
+
+
+35*717
+
+BINARY:		Product = 0000000110001000000111
+DECIMAL:	Product = 25095
+
+
+35/717
+
+BINARY:     Quotient = 00000000000     Remainder = 00000100011
+DECIMAL:    Quotient = 0               Remainder = 35 
+
+
+482*-951
+
+BINARY:		Product = 1110010000000101110010
+DECIMAL:	Product = -458382
+
+
+482/-951
+
+BINARY:     Quotient = 00000000000     Remainder = 00111100010
+DECIMAL:    Quotient = 0               Remainder = 482 
+
+
+285*573
+
+BINARY:		Product = 0000100111110111101001
+DECIMAL:	Product = 163305
+
+
+285/573
+
+BINARY:     Quotient = 00000000000     Remainder = 00100011101
+DECIMAL:    Quotient = 0               Remainder = 285 
+
+
+502*558
+
+BINARY:		Product = 0001000100011000110100
+DECIMAL:	Product = 280116
+
+
+502/558
+
+BINARY:     Quotient = 00000000000     Remainder = 00111110110
+DECIMAL:    Quotient = 0               Remainder = 502 
+
+
+305*-966
+
+BINARY:		Product = 1110111000000100011010
+DECIMAL:	Product = -294630
+
+
+305/-966
+
+BINARY:     Quotient = 00000000000     Remainder = 00100110001
+DECIMAL:    Quotient = 0               Remainder = 305 
+
+
+-567*-378
+
+BINARY:		Product = 0000110100010100110110
+DECIMAL:	Product = 214326
+
+
+-567/-378
+
+BINARY:     Quotient = 00000000001     Remainder = 11101000011
+DECIMAL:    Quotient = 1               Remainder = -189 
+
+
